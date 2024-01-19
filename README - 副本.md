@@ -1,1 +1,0 @@
-OLC is based on https://github.com/CGCL-codes/LoomIO/tree/redis3
